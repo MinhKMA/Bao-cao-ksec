@@ -1,1 +1,1 @@
-#Note- Đây là bài báo cáo tuần 1. <ul> <li>Tìm hiểu về OSI; TCP/IP</li> <li>Cách sử dụng github</li> </ul>
+#NOTE- Note lại những vấn đề đã được tìm hiểu tại Ksec-club Học Viện Kỹ Thuật Mật Mã.

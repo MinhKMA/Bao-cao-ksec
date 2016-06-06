@@ -1,0 +1,1 @@
+#Note- Đây là bài báo cáo tuần 1. <ul> <li>Tìm hiểu về OSI; TCP/IP</li> <li>Cách sử dụng github</li> </ul>
