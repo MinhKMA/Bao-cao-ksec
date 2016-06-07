@@ -1,1 +1,1 @@
-#NOTE- Note lại những vấn đề đã được tìm hiểu tại Ksec-club Học Viện Kỹ Thuật Mật Mã.
+#Tìm hiểu về OSI và TTCP/IP
