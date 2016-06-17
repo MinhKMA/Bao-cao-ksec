@@ -1,1 +1,2 @@
-cài đặt Ubuntu server
+#cài đặt Ubuntu server
+#cách dùng VIM cơ bản
